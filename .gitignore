@@ -1,0 +1,41 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Aa]ssets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop / Rider generated
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.slnx
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pidb.meta
+*.svd.meta
+
+# IDE / editor local config
+.vscode/
+.idea/
+
+# Exported project
+ExportedObj/
+
+# Unity Cache Server
+.cache/
+*.mdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unity local user settings
+UserSettings/
